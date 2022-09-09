@@ -1,3 +1,6 @@
+// user: diego
+// password: studenti
+
 #include <iostream> 
 #include <string>
 #include <stdio.h> // for fopen(), etc.
